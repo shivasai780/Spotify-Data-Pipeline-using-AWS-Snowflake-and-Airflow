@@ -123,7 +123,4 @@ To get started with this project, follow these steps:
 
     - Create and activate the Airflow DAG for the pipeline.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
