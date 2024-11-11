@@ -50,6 +50,8 @@ This section outlines the steps to implement the pipeline manually using scripts
 
 ### With Airflow
 
+![Project Overview](images/Spotify-Data-Pipelines-with-Airflow.png)
+
 This section outlines the steps to implement the pipeline using Apache Airflow for orchestration.
 
 #### 1. Airflow Setup
