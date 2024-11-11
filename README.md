@@ -10,6 +10,9 @@ The Spotify Data Pipeline project is designed to automate the extraction, transf
 
 ### Without Airflow
 
+![Project Overview](images/Spotify-Data-Pipelines.png)
+
+
 This section outlines the steps to implement the pipeline manually using scripts and AWS services.
 
 #### 1. Fetch Data from Spotify
